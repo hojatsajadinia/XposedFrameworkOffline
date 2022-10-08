@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="xposed-sdk22_archive.torrent" source="metadata">
+    <btih>555697ba6e4a51089d96075cd9bc31bf9684568e</btih>
+    <mtime>1613804487</mtime>
+    <size>28692</size>
+    <md5>1d6967b9e1b67bd4680598442fa19562</md5>
+    <crc32>b3305e84</crc32>
+    <sha1>07ea359eae1d758f6ae7c337366d936af66deadb</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="xposed-sdk22_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>e7e162872ebd46797e7e44646f0fb0ad</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="xposed-sdk22_meta.sqlite" source="original">
+    <mtime>1579151782</mtime>
+    <size>156672</size>
+    <format>Metadata</format>
+    <md5>e9fdf024f2082e05ba3771ffced5fe90</md5>
+    <crc32>734b26f6</crc32>
+    <sha1>6958a5432a8427759771ff0a4c0920052c38310c</sha1>
+  </file>
+  <file name="xposed-sdk22_meta.xml" source="original">
+    <mtime>1613804484</mtime>
+    <size>727</size>
+    <format>Metadata</format>
+    <md5>db8186b06b63b1f7cbb4a6b4f544b231</md5>
+    <crc32>e306ed5b</crc32>
+    <sha1>12cd73fa48180c25fd243b7e5e695448b96f4c14</sha1>
+  </file>
+  <file name="xposed-v72-sdk22-arm.zip" source="original">
+    <mtime>1579150791</mtime>
+    <size>3498114</size>
+    <md5>06ae49244ab660c7492e049b56a52a73</md5>
+    <crc32>4e2ba844</crc32>
+    <sha1>e7464888bbe54df98e02b58f9eb4ad6b9f6f6d4d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v72-sdk22-arm.zip.asc" source="original">
+    <mtime>1579150797</mtime>
+    <size>819</size>
+    <md5>ef3be05f554137f6eebaa03488507c4f</md5>
+    <crc32>2a0130e2</crc32>
+    <sha1>82cbb6f581468faae5cd4743c4b9ca815be4efbc</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v72-sdk22-arm64.zip" source="original">
+    <mtime>1579150811</mtime>
+    <size>5893558</size>
+    <md5>641fd5fd619a80c8b01a9fc8b90b3929</md5>
+    <crc32>3cd5adc9</crc32>
+    <sha1>6ac0046c0eaa50877fda36d466e0450d13205405</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v72-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579150823</mtime>
+    <size>819</size>
+    <md5>545856f5eb2ad92a773ee3ed0535f1f9</md5>
+    <crc32>7c001a90</crc32>
+    <sha1>6e139700b4805b39dfec4fa5c3310c537b941f9c</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v72-sdk22-x86.zip" source="original">
+    <mtime>1579150834</mtime>
+    <size>4025142</size>
+    <md5>5228c93e8ce4ddd60d16c2c4efc43c7a</md5>
+    <crc32>1461ee47</crc32>
+    <sha1>3509a3cb192bf1d099c7a1693ef076b33bf0fe90</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v72-sdk22-x86.zip.asc" source="original">
+    <mtime>1579150848</mtime>
+    <size>819</size>
+    <md5>3727060dfbeed587905bb5dc2b4a1833</md5>
+    <crc32>fa58195e</crc32>
+    <sha1>a8bc18ecf4066abcd00913c04a35be02130e1ff8</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v73-sdk22-arm.zip" source="original">
+    <mtime>1579150852</mtime>
+    <size>3499155</size>
+    <md5>8871f05f0f7cf93314a1ab9590975691</md5>
+    <crc32>535b26ec</crc32>
+    <sha1>4cb4c02d2480b578a925daa5eed62b7f7cbc93d0</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v73-sdk22-arm.zip.asc" source="original">
+    <mtime>1579150861</mtime>
+    <size>819</size>
+    <md5>3010accc37219a8ece74b3d28f141adb</md5>
+    <crc32>a359128c</crc32>
+    <sha1>1975b75cd9688a65bc6332a4766bc8c426c9dc93</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v73-sdk22-arm64.zip" source="original">
+    <mtime>1579150868</mtime>
+    <size>5894257</size>
+    <md5>c67b2ff437c9a9b781e28455d957eb3e</md5>
+    <crc32>9b6b6856</crc32>
+    <sha1>876ebe70f880293cae9f96624d0cb7ce4cb1aa7d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v73-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579150879</mtime>
+    <size>819</size>
+    <md5>0e72c8b1da2cfd338908d170aa2900cd</md5>
+    <crc32>44ceeca2</crc32>
+    <sha1>3c93c3a0b9f1f565a010e92a860c9e1f297053bd</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v73-sdk22-x86.zip" source="original">
+    <mtime>1579150895</mtime>
+    <size>4025186</size>
+    <md5>81b70ee0ddac76e3f3a7634150e79d0e</md5>
+    <crc32>727b0990</crc32>
+    <sha1>4cdd99350d2b2eca6ebc06835d408d04b9f59692</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v73-sdk22-x86.zip.asc" source="original">
+    <mtime>1579150905</mtime>
+    <size>819</size>
+    <md5>65c958c866764ba509aaeba90a431d63</md5>
+    <crc32>db7fc1b4</crc32>
+    <sha1>71ad26b4b1fcc6e4278a699be91b50f6be3495f7</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v74-sdk22-arm.zip" source="original">
+    <mtime>1579150913</mtime>
+    <size>3540544</size>
+    <md5>f7ea0d3a715487fe1babeb1b7677dd3f</md5>
+    <crc32>eb44bc5a</crc32>
+    <sha1>4b1eb31330d36efbe50936ca8268ea796e3c8f24</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v74-sdk22-arm.zip.asc" source="original">
+    <mtime>1579150922</mtime>
+    <size>819</size>
+    <md5>7a90883dbc2a7276a02f906383589021</md5>
+    <crc32>4be1cd27</crc32>
+    <sha1>cd22f8a7552a669134e537c5f70c5274f302e07d</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v74-sdk22-arm64.zip" source="original">
+    <mtime>1579150949</mtime>
+    <size>5937346</size>
+    <md5>381e7a5ef560933cb575cf89d4b9f18b</md5>
+    <crc32>1154688e</crc32>
+    <sha1>e99fb5bcc73d76127013b0bf3531e19881c000a2</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v74-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579150962</mtime>
+    <size>819</size>
+    <md5>ee76a4ee14ca32e665deaf9db73b50c4</md5>
+    <crc32>a7848233</crc32>
+    <sha1>8e1deb10cb7290054cd3bd00df1550b43d072036</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v74-sdk22-x86.zip" source="original">
+    <mtime>1579150968</mtime>
+    <size>4067006</size>
+    <md5>6935dbfb72268ed50436e3f044b58c94</md5>
+    <crc32>e93bd55f</crc32>
+    <sha1>e0ddf583f1ee292404423626b3d50477aa128fb5</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v74-sdk22-x86.zip.asc" source="original">
+    <mtime>1579150978</mtime>
+    <size>819</size>
+    <md5>75c44c4c93e4882ca23eba4afc58fbee</md5>
+    <crc32>6b5b413b</crc32>
+    <sha1>02ce8acff5d5ef8fc7c33e9078192b8a63a74bde</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v75-sdk22-arm.zip" source="original">
+    <mtime>1579150989</mtime>
+    <size>3540671</size>
+    <md5>e9c9c8d25dd66d5a137bf70bcd2b095b</md5>
+    <crc32>7fd302a2</crc32>
+    <sha1>70e51854777027f35ac0b32a27b69e89e7f834db</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v75-sdk22-arm.zip.asc" source="original">
+    <mtime>1579150998</mtime>
+    <size>819</size>
+    <md5>b4066c29215825bab3133434077f04dd</md5>
+    <crc32>60209b33</crc32>
+    <sha1>0962d3e271da99d09b70495dd7b17ea27d131637</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v75-sdk22-arm64.zip" source="original">
+    <mtime>1579151026</mtime>
+    <size>5937652</size>
+    <md5>52419160cb0771a88b2fa6fc4653363c</md5>
+    <crc32>895bb807</crc32>
+    <sha1>fc6800f9afce425b04619671ff1cfc93cb120caa</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v75-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151055</mtime>
+    <size>819</size>
+    <md5>b398fc5736c3d2038cbf08d6ec97bd99</md5>
+    <crc32>db996fae</crc32>
+    <sha1>277edb01c9c8f063bef4ff3d89dda0d4a0c9fd18</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v75-sdk22-x86.zip" source="original">
+    <mtime>1579151068</mtime>
+    <size>4067039</size>
+    <md5>cce7af6f3c878da4e2b5fb03b007ddaa</md5>
+    <crc32>f10cd90d</crc32>
+    <sha1>6fc9d677f721c24cd9be27e15432f21a08070a10</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v75-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151117</mtime>
+    <size>819</size>
+    <md5>a371e6bca0c51050a5ab50c685792637</md5>
+    <crc32>312791d3</crc32>
+    <sha1>0faa1b4fae2f16881f185fae2d76d9233426bd98</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v78-sdk22-arm.zip" source="original">
+    <mtime>1579151137</mtime>
+    <size>3541661</size>
+    <md5>12c800fd6b516004e2344488a546e032</md5>
+    <crc32>0fda828b</crc32>
+    <sha1>e7a3e12b3979cc99b50e06bdede15f607e240a1a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v78-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151156</mtime>
+    <size>819</size>
+    <md5>9de37eed530db3c454b4fce2690e2e55</md5>
+    <crc32>cdbea0b5</crc32>
+    <sha1>926f6c651785c08e0232d5f738621942b8b5d929</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v78-sdk22-arm64.zip" source="original">
+    <mtime>1579151192</mtime>
+    <size>5940566</size>
+    <md5>e75b848ca35748b104782e7181807aca</md5>
+    <crc32>7b6d041e</crc32>
+    <sha1>cbb53c8fd89ff1543ad9c32aa618cc127ef42491</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v78-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151202</mtime>
+    <size>819</size>
+    <md5>caa17c5a1399be16ab2350c6b06e62af</md5>
+    <crc32>f1ea6e21</crc32>
+    <sha1>617b2a1c50f1ea1c9917acf455523cf5748287c0</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v78-sdk22-x86.zip" source="original">
+    <mtime>1579151225</mtime>
+    <size>4069177</size>
+    <md5>b53261903a60409e971c9f5cc1fc049f</md5>
+    <crc32>19283ece</crc32>
+    <sha1>747f05925afc81ea7c46926a6a0c84a678cbf820</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v78-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151235</mtime>
+    <size>819</size>
+    <md5>ef33ad707d10fccfdadfb8316b2f9af2</md5>
+    <crc32>46d376ac</crc32>
+    <sha1>b48afb9df7cd3ef5340b5462d0e42d5add40fe1a</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v79-sdk22-arm.zip" source="original">
+    <mtime>1579151248</mtime>
+    <size>3549007</size>
+    <md5>57495f4ef9cd5a2da7f498e371e8f9c9</md5>
+    <crc32>0cc7cec1</crc32>
+    <sha1>5b0b0dd08eb2962c0d8e7620c92ed01de7e04487</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v79-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151255</mtime>
+    <size>819</size>
+    <md5>8dfc62721e2d9c8b56999172885909ec</md5>
+    <crc32>51ce39df</crc32>
+    <sha1>f2bec74413670e2ff8c03c2f0bd3b7a22b9f9908</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v79-sdk22-arm64.zip" source="original">
+    <mtime>1579151264</mtime>
+    <size>5948733</size>
+    <md5>2eca870d04f9709b323d72f73bcd36af</md5>
+    <crc32>6836826c</crc32>
+    <sha1>e27e72a4d3049ca5679cfb68232fcfd4332ea7fb</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v79-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151271</mtime>
+    <size>819</size>
+    <md5>1969d5286e6e933c2acf4a70a4b33f8b</md5>
+    <crc32>64f85854</crc32>
+    <sha1>c62985a5f3c2c8f00d0c84a52982c593a7c2a468</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v79-sdk22-x86.zip" source="original">
+    <mtime>1579151283</mtime>
+    <size>4083059</size>
+    <md5>a612f6c3eaf24cfefa0e32089fbd6045</md5>
+    <crc32>86c15d34</crc32>
+    <sha1>ffc9620521e48b4cc53525b656cdf46f20ebb0d6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v79-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151290</mtime>
+    <size>819</size>
+    <md5>ee6305b847c79d8201aa345ada2a286d</md5>
+    <crc32>6d4d9267</crc32>
+    <sha1>6bc7765c1961047fbd788ca080d41a85d1369019</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v80-sdk22-arm.zip" source="original">
+    <mtime>1579151297</mtime>
+    <size>3546701</size>
+    <md5>e564abd8ddeb3ad2e519258cf8f779e8</md5>
+    <crc32>6ba95e43</crc32>
+    <sha1>bfd16908740571787b1f03d956bb69b190de69ef</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v80-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151303</mtime>
+    <size>819</size>
+    <md5>90ce2b7cfd9c49310a2b2dc85ab05092</md5>
+    <crc32>8b5e6166</crc32>
+    <sha1>625d83516853f7a1fe2adeb08a1e06f139c56c58</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v80-sdk22-arm64.zip" source="original">
+    <mtime>1579151311</mtime>
+    <size>5947080</size>
+    <md5>7dfb6740a4095547ccb65fccbef9fbf9</md5>
+    <crc32>243d3d56</crc32>
+    <sha1>95edeb361513a73321090f83cb561a9b1b9a6000</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v80-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151316</mtime>
+    <size>819</size>
+    <md5>a073cbec237f75a9c684cf9f90ded9b0</md5>
+    <crc32>1f3a734e</crc32>
+    <sha1>0d42ed16e838c80afa649a8c9c1803fe26ad2ff8</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v80-sdk22-x86.zip" source="original">
+    <mtime>1579151327</mtime>
+    <size>4080874</size>
+    <md5>8956875be1c25795cef1e2be500f698c</md5>
+    <crc32>45ddcd47</crc32>
+    <sha1>c91ff67225a8f50767886d22c74b2c028c39ff88</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v80-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151351</mtime>
+    <size>819</size>
+    <md5>ffa6ca3c56510bd629f174681fe1186b</md5>
+    <crc32>fbccfb2d</crc32>
+    <sha1>3c51e43a6790552c97a03f31cbf5f39112d2dc3e</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v81-sdk22-arm.zip" source="original">
+    <mtime>1579151358</mtime>
+    <size>3546505</size>
+    <md5>465dfd8c9b41b57d10053c35931cf5ce</md5>
+    <crc32>61f1ff74</crc32>
+    <sha1>98df083db2b987d52ba395afa25969287a47a7de</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v81-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151363</mtime>
+    <size>819</size>
+    <md5>c328082f3e4aa9e3f2c95475bd495532</md5>
+    <crc32>1bf520fb</crc32>
+    <sha1>3ab834b4ae967dbeddb2ac09e9b62617b4ed9bab</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v81-sdk22-arm64.zip" source="original">
+    <mtime>1579151371</mtime>
+    <size>5946883</size>
+    <md5>589f14fba327d1ca5591f01d0db9f448</md5>
+    <crc32>ea7754ec</crc32>
+    <sha1>fc87da7432fca319906512e85f07ad9a7928a659</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v81-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151382</mtime>
+    <size>819</size>
+    <md5>533a487e3532256660f1b74c5d114135</md5>
+    <crc32>713eaf96</crc32>
+    <sha1>a78c0f534374f604bac0b232caa409e530a0c869</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v81-sdk22-x86.zip" source="original">
+    <mtime>1579151388</mtime>
+    <size>4080681</size>
+    <md5>d6c8b14d4edb5d45a09c8a416ce3fe82</md5>
+    <crc32>1032110e</crc32>
+    <sha1>0b0b9d2956653de444f72e282425d4874258328b</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v81-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151399</mtime>
+    <size>819</size>
+    <md5>41214b298f9e0b9be72937455dd48303</md5>
+    <crc32>9da5f0ab</crc32>
+    <sha1>fc1f43fdcc63d751622ebd1c768fff05ad952bef</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v82-sdk22-arm.zip" source="original">
+    <mtime>1579151409</mtime>
+    <size>3546862</size>
+    <md5>eec47c308442e389517b40b54ebc0784</md5>
+    <crc32>3007b1e4</crc32>
+    <sha1>07700431069936b205e4abe2c473dcdd7d12b633</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v82-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151428</mtime>
+    <size>819</size>
+    <md5>48e7d30ba1f93d1aa424da7f5a7ddee0</md5>
+    <crc32>a2b76803</crc32>
+    <sha1>586d8ec395a978be1dcef538b77e34148581c144</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v82-sdk22-arm64.zip" source="original">
+    <mtime>1579151435</mtime>
+    <size>5947232</size>
+    <md5>304e065d319f32a62f6f0791d6454b06</md5>
+    <crc32>2c799d14</crc32>
+    <sha1>87a7598dfc18c84514968810070f520f73faa961</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v82-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151439</mtime>
+    <size>819</size>
+    <md5>8b3e41ac9aafc9d6633f5ede14083da2</md5>
+    <crc32>22f035e3</crc32>
+    <sha1>ea9437a5901bfd27806c6ed02f58e4aa463f5f93</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v82-sdk22-x86.zip" source="original">
+    <mtime>1579151444</mtime>
+    <size>4081029</size>
+    <md5>e24d22ef9d4e802a02be647d3e160bae</md5>
+    <crc32>f85ac36c</crc32>
+    <sha1>d4b9ad013dda31ff5a4a519208fb5e9553b0d34f</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v82-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151450</mtime>
+    <size>819</size>
+    <md5>c8d6f0a6c47124de1a058b9360ea6b4f</md5>
+    <crc32>f2519bb3</crc32>
+    <sha1>6bba0658a8bd262422a44a8aee2a7bd084848a48</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v83-sdk22-arm.zip" source="original">
+    <mtime>1579151460</mtime>
+    <size>3546876</size>
+    <md5>5299315db40612ffbca671946a3f4884</md5>
+    <crc32>892456bc</crc32>
+    <sha1>ba11803216e14e59f07256c02f925697267c7045</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v83-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151466</mtime>
+    <size>819</size>
+    <md5>82d67bd796dd801a2a894c9567066f6d</md5>
+    <crc32>e0bf2734</crc32>
+    <sha1>9a3cd80b4f501046fd63d342e4ebf10632742eae</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v83-sdk22-arm64.zip" source="original">
+    <mtime>1579151470</mtime>
+    <size>5947805</size>
+    <md5>7c014d385f4fda089c66471d0bdad7b7</md5>
+    <crc32>07148d43</crc32>
+    <sha1>093a2bc5d66ad2ba6c23584e069683cbce6a354e</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v83-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151476</mtime>
+    <size>819</size>
+    <md5>8a9b4fd60e63ba03d8af577e4df4811d</md5>
+    <crc32>808419e8</crc32>
+    <sha1>27a43833b6e88248866862160ec910a0f3f96d67</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v83-sdk22-x86.zip" source="original">
+    <mtime>1579151486</mtime>
+    <size>4081026</size>
+    <md5>8694e1b580c5883b3ba78c1fbc40ec28</md5>
+    <crc32>e8747c2d</crc32>
+    <sha1>54201d4a62ff174f4a5eb823d57a61692791a56a</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v83-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151494</mtime>
+    <size>819</size>
+    <md5>57cdb8c46ddb3e7398a1c907f18265d0</md5>
+    <crc32>0f1a624c</crc32>
+    <sha1>5475ea664a398606111a4c2be5c22719ebf5b27d</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v84-sdk22-arm.zip" source="original">
+    <mtime>1579151498</mtime>
+    <size>3546951</size>
+    <md5>a84323d8af355b20d8560e9d0f0846b7</md5>
+    <crc32>f7b4049a</crc32>
+    <sha1>31973e1ffa2652ed227b33e2903d75ad0997cc43</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v84-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151504</mtime>
+    <size>819</size>
+    <md5>a8a723b73e1b8b47cf607c616b7d8177</md5>
+    <crc32>59e60104</crc32>
+    <sha1>d519acd90591a930a9d984a2867536573bd06385</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v84-sdk22-arm64.zip" source="original">
+    <mtime>1579151516</mtime>
+    <size>5947759</size>
+    <md5>be884547acfa63c99c7a222f76158b06</md5>
+    <crc32>0f8150c4</crc32>
+    <sha1>0118c03a031fbd7cbd76bdbf50948be0ba1fc07c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v84-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151527</mtime>
+    <size>819</size>
+    <md5>dd2136dabec6115245c0576ed60a20ee</md5>
+    <crc32>b29457e4</crc32>
+    <sha1>c465a578c955d55cf4e331e1e50db7e134b5e90d</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v84-sdk22-x86.zip" source="original">
+    <mtime>1579151533</mtime>
+    <size>4081146</size>
+    <md5>f7340ef44da139063d2e3808d1e000de</md5>
+    <crc32>ce26715d</crc32>
+    <sha1>c9953c946c6b1b304c4014eb3db841eee59ea7eb</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v84-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151538</mtime>
+    <size>819</size>
+    <md5>aea5402d2fe6c676d6fbe0cfbc1619d3</md5>
+    <crc32>974d6541</crc32>
+    <sha1>2a43a8ae3bafc9d7c21082d4ae87011bb3776a06</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v85-sdk22-arm.zip" source="original">
+    <mtime>1579151542</mtime>
+    <size>3548066</size>
+    <md5>5c82b159e069862fd842d7fdca049812</md5>
+    <crc32>d4a5b7b7</crc32>
+    <sha1>2573c55110587c90413fc6dc5a707dc0bc04d349</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v85-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151549</mtime>
+    <size>819</size>
+    <md5>758afa832e17982712fd3dcbc9739865</md5>
+    <crc32>9e014a41</crc32>
+    <sha1>9c7610c6cace60fcae29c5c8337a3e19cf3d99ef</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v85-sdk22-arm64.zip" source="original">
+    <mtime>1579151563</mtime>
+    <size>5949303</size>
+    <md5>7229a596169887afe6c65280c8c00f9c</md5>
+    <crc32>996b7e30</crc32>
+    <sha1>e4ae54337fc8d4c17d2eb15d6860c97623cb2775</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v85-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151570</mtime>
+    <size>819</size>
+    <md5>7a5a8d6a4f326d0f7f9906b75b48cf50</md5>
+    <crc32>4076a811</crc32>
+    <sha1>821f4f5541ac71c31ba975e2a8ba8d65bb3120dc</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v85-sdk22-x86.zip" source="original">
+    <mtime>1579151580</mtime>
+    <size>4081448</size>
+    <md5>b41fe72113faed281124bf0263ff0bd3</md5>
+    <crc32>57f0b93e</crc32>
+    <sha1>1fa5141008b84abb089490b4b3f22a69d9d64cc6</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v85-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151585</mtime>
+    <size>819</size>
+    <md5>3bd96451382376bfacd7080a8681e2bb</md5>
+    <crc32>4bf80d35</crc32>
+    <sha1>73d384eddf7d520d5f7ad8144d3690ed5389b1fa</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v86-sdk22-arm.zip" source="original">
+    <mtime>1579151589</mtime>
+    <size>3550066</size>
+    <md5>93dacfc505241451684287302326d808</md5>
+    <crc32>f824265b</crc32>
+    <sha1>8e2ddd62cdac2a24c80770a69b13e4d74cd0fe83</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v86-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151597</mtime>
+    <size>819</size>
+    <md5>eddbb1e906bac427c910824d4319218d</md5>
+    <crc32>724a1673</crc32>
+    <sha1>4986c1eec8d0881b38fc03da84d8ea5cee1239e0</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v86-sdk22-arm64.zip" source="original">
+    <mtime>1579151606</mtime>
+    <size>5949666</size>
+    <md5>e53a086953e7b966139142c4348efd61</md5>
+    <crc32>1ea402f8</crc32>
+    <sha1>6838be6c5c7bdb7940c62477a71cecbc77a1f293</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v86-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151615</mtime>
+    <size>819</size>
+    <md5>604aba10bcfa9cf440da9ce0edebf39c</md5>
+    <crc32>b4428a02</crc32>
+    <sha1>855b4d70f7bd65ca09fed09b8417ea50efb2f44b</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v86-sdk22-x86.zip" source="original">
+    <mtime>1579151624</mtime>
+    <size>4083701</size>
+    <md5>f865fab3f92b2ee3805cc7c355726cfc</md5>
+    <crc32>086247e0</crc32>
+    <sha1>add291969cd3e667f9f0675bce1f52c3adac1a75</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v86-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151636</mtime>
+    <size>819</size>
+    <md5>2d7200920deb694b44547453687dc68e</md5>
+    <crc32>763f6f00</crc32>
+    <sha1>6eb375a61b31ca024e3a5c6975fa82f38dbfc4cb</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v87-sdk22-arm.zip" source="original">
+    <mtime>1579151647</mtime>
+    <size>3557043</size>
+    <md5>83e70f3b0a7cdcee25847793b9fcc2de</md5>
+    <crc32>0ea8e2d1</crc32>
+    <sha1>41322495dbb47cea7f392158d2cc06346d6ab75d</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v87-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151657</mtime>
+    <size>819</size>
+    <md5>6382d6cb47609428e42849609bd20a26</md5>
+    <crc32>aaece70e</crc32>
+    <sha1>3d4b9c9b3e3f5d59869cb75d20d98318b218af2c</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v87-sdk22-arm64.zip" source="original">
+    <mtime>1579151665</mtime>
+    <size>5962491</size>
+    <md5>cd18186ab75ae778550597110ac8fc01</md5>
+    <crc32>3d8c47d6</crc32>
+    <sha1>87d4eee3d5be9357de32fe6dd18a5996eb1422db</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v87-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579151673</mtime>
+    <size>819</size>
+    <md5>10f5f59b6315b9664e9ac87cf1295cf7</md5>
+    <crc32>cb069827</crc32>
+    <sha1>119bd142dfd57a6680eec6fac3d6c060e5d78ed3</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v87-sdk22-x86.zip" source="original">
+    <mtime>1579151681</mtime>
+    <size>4091120</size>
+    <md5>3897968e7fd1455530a5655a6634d013</md5>
+    <crc32>2c9774ae</crc32>
+    <sha1>32c2e6c5335d72be4d214ffe627ef78676802291</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v87-sdk22-x86.zip.asc" source="original">
+    <mtime>1579151688</mtime>
+    <size>819</size>
+    <md5>062a4322da942440c8edaec24895cbc2</md5>
+    <crc32>74fbe719</crc32>
+    <sha1>9174b95bfc5608ed3ab75ac5fd200989e0505ba5</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v88-sdk22-arm.zip" source="original">
+    <mtime>1579150666</mtime>
+    <size>3559634</size>
+    <md5>9af71fc558104b500105ca2cd63706ec</md5>
+    <crc32>f5623c37</crc32>
+    <sha1>93f5f484fac67b89ccbc363925627599d7cca0d0</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v88-sdk22-arm.zip.asc" source="original">
+    <mtime>1579150671</mtime>
+    <size>833</size>
+    <md5>c1c29e64cd3e199d15b09b8388810eaa</md5>
+    <crc32>5eaf2a47</crc32>
+    <sha1>b44d59083bb13e9705acf87276cdf8cf3e45c482</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v88-sdk22-arm64.zip" source="original">
+    <mtime>1579150683</mtime>
+    <size>5966197</size>
+    <md5>a701fbde4dbf52d045f61c799930e882</md5>
+    <crc32>4cbee171</crc32>
+    <sha1>fc1060ed611aa0dbd92800a044356254d47fe69b</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v88-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579150689</mtime>
+    <size>833</size>
+    <md5>545eadf455776e794ffdbf22397b4cc1</md5>
+    <crc32>62458c96</crc32>
+    <sha1>c569bb4dfc53b1b79f600f53ce2f5014396bb104</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v88-sdk22-x86.zip" source="original">
+    <mtime>1579150693</mtime>
+    <size>4092577</size>
+    <md5>7cefdee7bd25fd95a558494b60f1a9cb</md5>
+    <crc32>06e25b55</crc32>
+    <sha1>d0fd03415cbdc7e37be1143d4f7b2ea47857bb8f</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v88-sdk22-x86.zip.asc" source="original">
+    <mtime>1579150701</mtime>
+    <size>833</size>
+    <md5>e678e8f9983e252ea5678dac45c35e41</md5>
+    <crc32>95bceb18</crc32>
+    <sha1>be0855cdc2183805b3e06035232c2d75f0349c9f</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v88.2-sdk22-arm.zip" source="original">
+    <mtime>1579151696</mtime>
+    <size>3560781</size>
+    <md5>c7a6f18329cf87bc1804bec0e8be5f95</md5>
+    <crc32>90eb3f37</crc32>
+    <sha1>8842fe65a75d48c26e7c32f303ab50d731b193c9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v88.2-sdk22-arm.zip.asc" source="original">
+    <mtime>1579151713</mtime>
+    <size>833</size>
+    <md5>e7bea560c9ccb655b704b5dd6149c8f6</md5>
+    <crc32>7e615554</crc32>
+    <sha1>2c1a27bc1e00f95925072dbd9c7bfb99bc40441e</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v88.2-sdk22-arm64.zip" source="original">
+    <mtime>1579151720</mtime>
+    <size>5967657</size>
+    <md5>3b99d4a9ca10fad563b2e9028a16aba3</md5>
+    <crc32>ef0610a7</crc32>
+    <sha1>0dce008940194cbf08e87ad5690ff387768deb2c</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v88.2-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579150622</mtime>
+    <size>833</size>
+    <md5>a98acb001f291f2c112deb5c14240d69</md5>
+    <crc32>025968ad</crc32>
+    <sha1>44bc1159436d9969ef3e25f5cfcd6c02ee50ec47</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v88.2-sdk22-x86.zip" source="original">
+    <mtime>1579150652</mtime>
+    <size>4093866</size>
+    <md5>72f821d2280770a25f81aaa9ca315362</md5>
+    <crc32>21f620c8</crc32>
+    <sha1>132fff57ad678aad2fe279f95abfad43c87c5b30</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v88.2-sdk22-x86.zip.asc" source="original">
+    <mtime>1579150658</mtime>
+    <size>833</size>
+    <md5>c020f84000f7e5c2f0abf86f31f18d7d</md5>
+    <crc32>96223415</crc32>
+    <sha1>b579ebfe257b17809171918a0e3bccf586f74494</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v89-sdk22-arm.zip" source="original">
+    <mtime>1579150710</mtime>
+    <size>3561425</size>
+    <md5>80fff79c7ad85141c520e5fd0c644ec7</md5>
+    <crc32>6f6ba2d3</crc32>
+    <sha1>1ed94f71a4922be3dcd8eb93588bb3f6b904ab42</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v89-sdk22-arm.zip.asc" source="original">
+    <mtime>1579150717</mtime>
+    <size>833</size>
+    <md5>1b9214bce8dd39527fd4f4852bd1e861</md5>
+    <crc32>6636f4e4</crc32>
+    <sha1>fb120b729144ae31806c8b8038743ecb44d47035</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v89-sdk22-arm64.zip" source="original">
+    <mtime>1579150726</mtime>
+    <size>5969129</size>
+    <md5>4d3bac2357dd004afff54cc48cb18fff</md5>
+    <crc32>d3c5ed58</crc32>
+    <sha1>44ad56b549f3076d2f2bfa1d9d65901a7bf94984</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v89-sdk22-arm64.zip.asc" source="original">
+    <mtime>1579150740</mtime>
+    <size>833</size>
+    <md5>60cc164461e6bf4e0d4bcd81b127a8c6</md5>
+    <crc32>e9fc9e76</crc32>
+    <sha1>e47860d4602650b49d6508e4e6f64c0a5f851502</sha1>
+    <format>Unknown</format>
+  </file>
+  <file name="xposed-v89-sdk22-x86.zip" source="original">
+    <mtime>1579150761</mtime>
+    <size>4094816</size>
+    <md5>050a3d6cf4468556f2f87c9526b9e30e</md5>
+    <crc32>38b077a7</crc32>
+    <sha1>baaa48103758fd1898854e3f00ec3b47ad5f03c9</sha1>
+    <format>ZIP</format>
+  </file>
+  <file name="xposed-v89-sdk22-x86.zip.asc" source="original">
+    <mtime>1579150781</mtime>
+    <size>833</size>
+    <md5>50b28fc923133a6368d2e499b1da06a3</md5>
+    <crc32>14b47bec</crc32>
+    <sha1>2a832d6041a9c78a1c911256e729b4591da4dec6</sha1>
+    <format>Unknown</format>
+  </file>
+</files>
