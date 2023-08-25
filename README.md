@@ -2,7 +2,7 @@
 ![Logo](https://github.com/koengu/XposedFrameworkOffline/assets/40539111/8e6a281e-3f77-4bde-bb7d-9ab4aab1eb6f)
 
 
-Xposed Installer and Framework for offline use contains Android 5.1 to 8.0 support.
+Xposed Installer and Framework for offline use contains Android 5.0 to 8.0 support.
 
 
 ## Installation - Genymotion
