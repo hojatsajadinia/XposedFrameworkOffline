@@ -7,7 +7,7 @@ Xposed Installer and Framework for offline use contains Android 5.1 to 8.0 suppo
 
 ## Installation - Genymotion
 1. Install [**Xposed_Installer.apk**](https://github.com/6f090441-b1ae-4a94-bf8d-0deb1854aafa) via Drag and Drop.
-2. Drag and Drop **Xposed Framework**. For Genymotion use the x86 version of Framework.
+2. Download **Xposed Framework** and drag and drop it. For Genymotion use the x86 versions of Framework.
 
 ## Installation - nonGenymotion
 1. Install [**Xposed_Installer.apk**](https://github.com/6f090441-b1ae-4a94-bf8d-0deb1854aafa), you can use ADB:
@@ -15,7 +15,7 @@ Xposed Installer and Framework for offline use contains Android 5.1 to 8.0 suppo
 adb install Xposed_Installer.apk
 
 ```
-2. Download Xposed Framework and extract it, then install it via ADB:
+2. Download **Xposed Framework** and extract it, then install it via ADB:
 ```bash
 adb connect [DeviceIpAddress]
 adb push system /sdcard
